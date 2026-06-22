@@ -1,0 +1,5 @@
+connector_id,source_project,target_project,connector_name,status,notes
+C-001,Omega Meta-System,Riemann Workbench,Survival under perturbation,OBSERVED,Similarity only
+C-002,Riemann Workbench,Boundary Studies,Reconstruction and survival questions,OBSERVED,No mechanism established
+C-003,Boundary Studies,Omega Meta-System,Boundary transition concepts,EXPLORATORY,Requires further study
+C-004,Universal Bridge,All Projects,Translation without equivalence,FROZEN,Foundational rule
