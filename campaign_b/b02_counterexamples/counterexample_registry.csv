@@ -1,0 +1,4 @@
+id,question,status
+CE-001,Similarity failure,OPEN
+CE-002,Meaning survives identity failure,OPEN
+CE-003,Localization without mechanism,OPEN
