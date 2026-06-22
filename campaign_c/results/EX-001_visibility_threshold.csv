@@ -1,7 +1,7 @@
 domain,perturbation_visible,notes
 [-2,2],NO,Curves visually indistinguishable
-[-1,1],PENDING,
-[-0.5,0.5],PENDING,
-[-0.2,0.2],PENDING,
-[-0.1,0.1],YES,Oscillatory structure visible
-[-0.05,0.05],YES,Oscillatory structure visible
+[-1,1],NO,Perturbation not visually resolved
+[-0.5,0.5],PARTIAL,Slight local deviations visible
+[-0.2,0.2],YES,Oscillatory structure clearly visible
+[-0.1,0.1],YES,Oscillatory structure clearly visible
+[-0.05,0.05],YES,Oscillatory structure clearly visible

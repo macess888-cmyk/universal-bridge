@@ -3,9 +3,7 @@ import matplotlib.pyplot as plt
 
 # Domain
 x = np.linspace(-1, 1, 5000)
-x = np.linspace(-0.5, 0.5, 5000)
-x = np.linspace(-0.2, 0.2, 5000)
-x = np.linspace(-0.1, 0.1, 5000)
+
 
 # Systems
 f = x**2
