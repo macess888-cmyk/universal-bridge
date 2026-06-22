@@ -1,0 +1,5 @@
+connector_id,strength,status,notes
+C-001,1,OBSERVED,Initial observation
+C-002,1,OBSERVED,Initial observation
+C-003,0,EXPLORATORY,Not reproduced
+C-004,3,FROZEN,Foundational rule
