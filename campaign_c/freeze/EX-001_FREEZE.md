@@ -4,20 +4,27 @@ Date:
 
 2026-06-22
 
+Execution:
+
+EX-001
+
 Question:
 
 Can structural similarity fail under perturbation?
 
 Systems:
 
+System A:
 f(x) = x²
 
+System B:
 g(x) = x² + 0.001 sin(100x)
 
 Observations:
 
-* Perturbation exists at all scales.
-* Perturbation visibility depends on observational scale.
+* The perturbation exists at all scales.
+* The perturbation is not equally visible at all scales.
+* Visibility depends on observational scale.
 * The visibility threshold appears to lie between:
 
 [-0.5,0.5]
@@ -34,14 +41,17 @@ No universal principle established.
 
 No cross-domain equivalence established.
 
+No proof established.
+
 Status:
 
 OBSERVED
 RECORDED
+COMPLETE
 FROZEN
 
 Conclusion:
 
-Observational experiment complete.
+The perturbation is present at all scales, but its visibility depends on the scale of observation.
 
 UNKNOWN → HOLD
