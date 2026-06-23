@@ -1,0 +1,5 @@
+example,localized,explained,notes
+EX-001 Visibility Threshold,YES,NO,Threshold region bounded without mechanism
+Riemann Contribution Localization,YES,NO,Contribution regions identified without mechanism
+Anomaly Detection,YES,NO,Anomaly isolated before explanation
+Astronomical Detection,YES,NO,Object detected before origin explained
