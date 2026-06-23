@@ -1,0 +1,4 @@
+reduction_a,reduction_b,possible_relationship,status,notes
+Existence≠Visibility,Localization→Explanation,Possible ordering relationship,HYPOTHESIS,Visibility and explanation may both depend on prior localization
+Existence≠Visibility,Relationship Preservation≠Meaning Preservation,Possible dependency,HYPOTHESIS,Meaning may require visibility or representation
+Relationship Preservation≠Meaning Preservation,Localization→Explanation,Possible interaction,HYPOTHESIS,Relationships may be localized before meaning is explained
