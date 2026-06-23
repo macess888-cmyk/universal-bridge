@@ -1,0 +1,6 @@
+counterexample_id,example,apparent_asymmetry,possible_symmetry,status,notes
+PT02-001,Definition reformulation,YES,YES,OPEN,Changing definitions may alter directionality
+PT02-002,Context shift,YES,YES,OPEN,Different observational context may remove asymmetry
+PT02-003,Alternative representation,YES,YES,OPEN,Equivalent formulation may appear symmetric
+PT02-004,Granularity change,YES,YES,OPEN,Asymmetry may depend on scale or resolution
+PT02-005,Bidirectional dependency,YES,YES,OPEN,Apparent one-way dependency may become mutual
