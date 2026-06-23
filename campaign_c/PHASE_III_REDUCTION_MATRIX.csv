@@ -1,0 +1,4 @@
+reduction,ordering,asymmetry,dependency,stability,notes
+Existence≠Visibility,YES,YES,UNKNOWN,OBSERVED,Visibility appears dependent on observational conditions
+Relationship Preservation≠Meaning Preservation,UNKNOWN,YES,YES,UNKNOWN,Meaning appears dependent on additional definitions
+Localization→Explanation,YES,YES,PARTIAL,OBSERVED,Localization may precede explanation
