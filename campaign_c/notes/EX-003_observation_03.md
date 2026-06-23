@@ -8,58 +8,46 @@ Question:
 
 Can localization occur before explanation?
 
-Motivation:
+Method:
 
-Several examples appear to exhibit:
+Compare examples and record the apparent ordering between:
 
-1. Feature localization.
-2. Delayed explanation.
+1. Localization
+2. Explanation
 
 Observations:
 
-EX-001:
+Multiple examples appear to exhibit:
 
-Visibility threshold localized.
+Localization:
+First
 
-Mechanism:
-Unknown.
+Explanation:
+Later or unknown.
 
-Riemann Workbench:
+Examples:
 
-Contribution regions localized.
-
-Mechanism:
-Unknown.
-
-Anomaly Detection:
-
-Anomaly localized.
-
-Root cause:
-May be determined later.
-
-Astronomy:
-
-Object detected.
-
-Origin:
-May be explained later.
+* EX-001 visibility threshold.
+* Riemann contribution localization.
+* Anomaly detection.
+* Astronomical detection.
 
 Preliminary Pattern:
 
 Localization appears capable of preceding explanation.
 
-Reduction:
+Preliminary Reduction:
 
 Localization
-may precede
-Explanation.
+→
+Explanation
+?
 
 Interpretation Boundary:
 
-No claim is made that explanation is unnecessary.
-
 No claim is made that localization always precedes explanation.
+
+No claim is made that explanation is unnecessary.
 
 No universal principle established.
 
@@ -67,13 +55,7 @@ No proof established.
 
 Conclusion:
 
-The ordering:
-
-Localization
-→
-Explanation
-
-appears repeatedly across multiple examples.
+An apparent ordering pattern has been observed across several examples.
 
 Status:
 

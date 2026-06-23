@@ -1,0 +1,5 @@
+example,localization_first,explanation_first,simultaneous,notes
+EX-001 Visibility Threshold,YES,NO,NO,Threshold localized before mechanism established
+Riemann Contribution Localization,YES,NO,NO,Contribution regions identified before mechanism established
+Anomaly Detection,YES,NO,NO,Anomaly detected before root cause known
+Astronomical Detection,YES,NO,NO,Object detected before origin explained
