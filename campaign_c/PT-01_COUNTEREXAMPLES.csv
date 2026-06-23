@@ -1,0 +1,6 @@
+counterexample_id,example,apparent_visibility,underlying_existence,status,notes
+PT01-001,Optical illusion,YES,UNKNOWN,OPEN,Perception may not correspond to external object
+PT01-002,Measurement artifact,YES,UNKNOWN,OPEN,Instrument may report false signal
+PT01-003,Software visualization bug,YES,NO,OPEN,Rendered object may not exist in underlying state
+PT01-004,Simulation artifact,YES,UNKNOWN,OPEN,Representation may not correspond to physical existence
+PT01-005,False positive detection,YES,UNKNOWN,OPEN,Detection may later be withdrawn
