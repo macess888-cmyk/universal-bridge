@@ -14,7 +14,7 @@ OBSERVING
 
 Current Findings:
 
-Several examples exhibit:
+Several examples appear to exhibit:
 
 Localization:
 YES
@@ -45,14 +45,19 @@ No proof established.
 
 Open Questions:
 
-Can localization occur without explanation in all cases?
-
-Can explanation occur without localization?
-
-What constitutes localization?
+* Can localization occur without explanation in all cases?
+* Can explanation occur without localization?
+* What constitutes localization?
+* What constitutes explanation?
 
 Recommendation:
 
-Continue gathering examples before freezing.
+Pause and continue gathering examples in a future session.
+
+Status:
+
+OBSERVED
+RECORDED
+CHECKPOINT
 
 UNKNOWN → HOLD
