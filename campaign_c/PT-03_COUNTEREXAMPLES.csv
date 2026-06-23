@@ -1,0 +1,6 @@
+counterexample_id,example,apparent_dependency,dependency_removed,status,notes
+PT03-001,Definition change,YES,UNKNOWN,OPEN,Dependency may disappear if terms are redefined
+PT03-002,Abstraction change,YES,UNKNOWN,OPEN,Higher-level view may remove dependency
+PT03-003,Context shift,YES,UNKNOWN,OPEN,Different context may alter dependency
+PT03-004,Bidirectional dependency,YES,UNKNOWN,OPEN,One-way dependency may become mutual
+PT03-005,Independent reformulation,YES,UNKNOWN,OPEN,Objects may be restated without dependency
