@@ -1,0 +1,4 @@
+system_a,system_b,identity_same,representation_same,apparent_relationship_preserved,meaning_preserved,notes
+2 + 2 = 4,II + II = IV,NO,NO,YES,UNKNOWN,Arithmetic relationship appears preserved
+Hello,Bonjour,NO,NO,UNKNOWN,UNKNOWN,Requires assumptions about translation
+Plain text,Compressed archive,NO,NO,UNKNOWN,UNKNOWN,Requires definition of information preservation
