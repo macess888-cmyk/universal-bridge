@@ -1,4 +1,4 @@
 execution_id,counterexample,status,notes
 EX-001,CE-001,COMPLETE,Visibility threshold localized and observations recorded
-EX-002,CE-002,DESIGN,Meaning versus identity study
-EX-003,CE-003,OPEN,
+EX-002,CE-002,CHECKPOINT,Meaning definition boundary discovered
+EX-003,CE-003,DESIGN,Localization versus explanation study
