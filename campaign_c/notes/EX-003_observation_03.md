@@ -4,6 +4,10 @@ Date:
 
 2026-06-22
 
+Execution:
+
+EX-003
+
 Question:
 
 Can localization occur before explanation?
@@ -17,7 +21,7 @@ Compare examples and record the apparent ordering between:
 
 Observations:
 
-Multiple examples appear to exhibit:
+Several examples appear to exhibit:
 
 Localization:
 First
