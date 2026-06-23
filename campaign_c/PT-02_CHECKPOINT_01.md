@@ -18,7 +18,7 @@ UNRESOLVED
 CURRENT FINDINGS
 ────────────────────────────────────
 
-Several candidate counterexamples were identified:
+Candidate counterexamples identified:
 
 * Definition reformulation
 * Context shift
@@ -28,12 +28,12 @@ Several candidate counterexamples were identified:
 
 Evaluation Result:
 
-No candidate counterexample has been validated.
+No validated counterexample established.
 
-No asymmetry property has been refuted.
+No asymmetry property refuted.
 
 ────────────────────────────────────
-BOUNDARY ENCOUNTERED
+EMERGENT REDUCTION
 ────────────────────────────────────
 
 Possible Symmetry
@@ -46,7 +46,7 @@ INTERPRETATION BOUNDARY
 
 No conclusion established.
 
-No asymmetry established as universal.
+No universal asymmetry established.
 
 No proof established.
 
