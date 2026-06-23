@@ -1,0 +1,6 @@
+test_id,question,status,outcome,notes
+PT-01,Can Existence→Visibility fail?,CHECKPOINT,UNKNOWN,No validated counterexample established
+PT-02,,NOT_STARTED,,
+PT-03,,NOT_STARTED,,
+PT-04,,NOT_STARTED,,
+PT-05,,NOT_STARTED,,
