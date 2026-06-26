@@ -1,50 +1,42 @@
-# EX-003 Observation 02
+# EX-003 — Observation 02
 
 Date:
-
-2026-06-22
+2026-06-25
 
 Question:
 
-Can localization occur without explanation?
+Can localization remain stable while explanations change?
 
-Method:
+Candidate examples:
 
-Compare multiple examples where features were identified before explanations were established.
+• Riemann contribution localization
+• Medical diagnosis
+• Astronomical source localization
+• Anomaly detection
+• Weather prediction
 
-Observations:
+Observation:
 
-Several examples appear to exhibit:
-
-Localization:
-YES
-
-Explanation:
-NO
+The location of a phenomenon may remain stable while explanations evolve.
 
 Examples:
 
-* EX-001 visibility threshold.
-* Riemann contribution localization.
-* Anomaly detection.
-* Astronomical detection.
+Disease localized before mechanism known.
 
-Preliminary Pattern:
+Planetary motion localized before gravity.
 
-Localization may occur prior to explanation.
+Signal source localized before physical explanation.
 
-Interpretation Boundary:
+Candidate reduction:
 
-This is an observational pattern only.
+Localization ≠ Explanation
 
-No causal mechanism established.
+Candidate extension:
 
-No universal principle established.
+Localization may survive explanation revision.
 
-No proof established.
+Status:
 
-Conclusion:
-
-NONE.
+OBSERVATIONAL
 
 UNKNOWN → HOLD

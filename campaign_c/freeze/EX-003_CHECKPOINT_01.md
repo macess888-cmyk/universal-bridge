@@ -1,63 +1,23 @@
 # EX-003 Checkpoint 01
 
-Date:
+Observations:
 
-2026-06-22
+Localization frequently appears before explanation.
 
-Question:
+Localization sometimes survives explanation revision.
 
-Can localization occur without explanation?
+No necessity relationship established.
 
-Status:
+No causal relationship established.
 
-OBSERVING
+Candidate reduction:
 
-Current Findings:
-
-Several examples appear to exhibit:
-
-Localization:
-YES
-
-Explanation:
-NO or UNKNOWN
-
-Examples:
-
-* EX-001 visibility threshold.
-* Riemann contribution localization.
-* Anomaly detection.
-* Astronomical detection.
-
-Preliminary Pattern:
-
-Localization appears capable of preceding explanation.
-
-Interpretation Boundary:
-
-This is an observational pattern only.
-
-No causal mechanism established.
-
-No universal principle established.
-
-No proof established.
-
-Open Questions:
-
-* Can localization occur without explanation in all cases?
-* Can explanation occur without localization?
-* What constitutes localization?
-* What constitutes explanation?
-
-Recommendation:
-
-Pause and continue gathering examples in a future session.
+Localization ≠ Explanation
 
 Status:
 
-OBSERVED
-RECORDED
 CHECKPOINT
+
+OBSERVATIONAL ONLY
 
 UNKNOWN → HOLD
