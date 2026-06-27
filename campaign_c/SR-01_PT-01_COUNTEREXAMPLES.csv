@@ -1,0 +1,6 @@
+Case,Operation,Self-Reconstruction,Counterexample,Notes
+Mathematical Proof,YES,YES,Candidate,Investigate
+Aircraft Autopilot,YES,PARTIAL,Candidate,Investigate
+Cellular Aging,YES,PARTIAL,Candidate,Investigate
+Legacy Organization,YES,NO,Candidate,Investigate
+AI Agent Memory Loss,YES,NO,Candidate,Investigate
