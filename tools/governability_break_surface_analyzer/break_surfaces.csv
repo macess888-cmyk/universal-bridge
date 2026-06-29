@@ -1,0 +1,8 @@
+id,break_surface,question,status,notes
+BS-01,Signal Loss,Was the relevant signal unavailable or suppressed?,UNKNOWN,
+BS-02,Witness Loss,Was there no independent witness available?,UNKNOWN,
+BS-03,Context Loss,Was necessary context missing or degraded?,UNKNOWN,
+BS-04,Attribution Loss,Could responsibility or contribution no longer be traced?,UNKNOWN,
+BS-05,Self-Map Loss,Could the system no longer reconstruct what it was becoming?,UNKNOWN,
+BS-06,Correction Loss,Could the system no longer intervene meaningfully?,UNKNOWN,
+BS-07,Optionality Loss,Had reachable futures already contracted?,UNKNOWN,
