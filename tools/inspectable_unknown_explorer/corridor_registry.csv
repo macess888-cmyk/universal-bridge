@@ -1,0 +1,7 @@
+corridor,status,notes
+RSUC,ACTIVE,Recoverable Structure Under Constraint
+AC-01,ACTIVE,Admissibility Capacity
+CC-01,ACTIVE,Correction Capacity
+SR-01,ACTIVE,Self-Reconstruction Capacity
+Governability Inspector,ACTIVE,Continuous Governability
+Preserved Optionality,CANDIDATE,Not established
